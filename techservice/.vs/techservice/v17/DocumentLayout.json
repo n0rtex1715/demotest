@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\peter\\Desktop\\Code\\C#\\msforms\\techservice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1988E52-6CFF-4298-BA38-D95B15C6D823}|techservice_winforms\\techservice_winforms.csproj|c:\\users\\peter\\desktop\\code\\c#\\msforms\\techservice\\techservice_winforms\\services\\implementations\\dbworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1988E52-6CFF-4298-BA38-D95B15C6D823}|techservice_winforms\\techservice_winforms.csproj|solutionrelative:techservice_winforms\\services\\implementations\\dbworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1988E52-6CFF-4298-BA38-D95B15C6D823}|techservice_winforms\\techservice_winforms.csproj|c:\\users\\peter\\desktop\\code\\c#\\msforms\\techservice\\techservice_winforms\\services\\interfaces\\idbworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1988E52-6CFF-4298-BA38-D95B15C6D823}|techservice_winforms\\techservice_winforms.csproj|solutionrelative:techservice_winforms\\services\\interfaces\\idbworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1988E52-6CFF-4298-BA38-D95B15C6D823}|techservice_winforms\\techservice_winforms.csproj|c:\\users\\peter\\desktop\\code\\c#\\msforms\\techservice\\techservice_winforms\\forms\\clientsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1988E52-6CFF-4298-BA38-D95B15C6D823}|techservice_winforms\\techservice_winforms.csproj|solutionrelative:techservice_winforms\\forms\\clientsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1988E52-6CFF-4298-BA38-D95B15C6D823}|techservice_winforms\\techservice_winforms.csproj|C:\\Users\\peter\\Desktop\\Code\\C#\\msforms\\techservice\\techservice_winforms\\forms\\clientsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B1988E52-6CFF-4298-BA38-D95B15C6D823}|techservice_winforms\\techservice_winforms.csproj|solutionrelative:techservice_winforms\\forms\\clientsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1988E52-6CFF-4298-BA38-D95B15C6D823}|techservice_winforms\\techservice_winforms.csproj|C:\\Users\\peter\\Desktop\\Code\\C#\\msforms\\techservice\\techservice_winforms\\data\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1988E52-6CFF-4298-BA38-D95B15C6D823}|techservice_winforms\\techservice_winforms.csproj|solutionrelative:techservice_winforms\\data\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1988E52-6CFF-4298-BA38-D95B15C6D823}|techservice_winforms\\techservice_winforms.csproj|c:\\users\\peter\\desktop\\code\\c#\\msforms\\techservice\\techservice_winforms\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1988E52-6CFF-4298-BA38-D95B15C6D823}|techservice_winforms\\techservice_winforms.csproj|solutionrelative:techservice_winforms\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1988E52-6CFF-4298-BA38-D95B15C6D823}|techservice_winforms\\techservice_winforms.csproj|c:\\users\\peter\\desktop\\code\\c#\\msforms\\techservice\\techservice_winforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1988E52-6CFF-4298-BA38-D95B15C6D823}|techservice_winforms\\techservice_winforms.csproj|solutionrelative:techservice_winforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 209,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IDbWorker.cs",
+              "DocumentMoniker": "C:\\Users\\peter\\Desktop\\Code\\C#\\msforms\\techservice\\techservice_winforms\\Services\\Interfaces\\IDbWorker.cs",
+              "RelativeDocumentMoniker": "techservice_winforms\\Services\\Interfaces\\IDbWorker.cs",
+              "ToolTip": "C:\\Users\\peter\\Desktop\\Code\\C#\\msforms\\techservice\\techservice_winforms\\Services\\Interfaces\\IDbWorker.cs",
+              "RelativeToolTip": "techservice_winforms\\Services\\Interfaces\\IDbWorker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T05:14:38.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DbWorker.cs",
+              "DocumentMoniker": "C:\\Users\\peter\\Desktop\\Code\\C#\\msforms\\techservice\\techservice_winforms\\Services\\Implementations\\DbWorker.cs",
+              "RelativeDocumentMoniker": "techservice_winforms\\Services\\Implementations\\DbWorker.cs",
+              "ToolTip": "C:\\Users\\peter\\Desktop\\Code\\C#\\msforms\\techservice\\techservice_winforms\\Services\\Implementations\\DbWorker.cs",
+              "RelativeToolTip": "techservice_winforms\\Services\\Implementations\\DbWorker.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAuwDoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T05:14:31.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\peter\\Desktop\\Code\\C#\\msforms\\techservice\\techservice_winforms\\Program.cs",
+              "RelativeDocumentMoniker": "techservice_winforms\\Program.cs",
+              "ToolTip": "C:\\Users\\peter\\Desktop\\Code\\C#\\msforms\\techservice\\techservice_winforms\\Program.cs",
+              "RelativeToolTip": "techservice_winforms\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAB3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T04:40:21.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\peter\\Desktop\\Code\\C#\\msforms\\techservice\\techservice_winforms\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "techservice_winforms\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\peter\\Desktop\\Code\\C#\\msforms\\techservice\\techservice_winforms\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "techservice_winforms\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAkwAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T04:35:48.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\peter\\Desktop\\Code\\C#\\msforms\\techservice\\techservice_winforms\\Data\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "techservice_winforms\\Data\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\peter\\Desktop\\Code\\C#\\msforms\\techservice\\techservice_winforms\\Data\\Models\\Client.cs",
+              "RelativeToolTip": "techservice_winforms\\Data\\Models\\Client.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T03:49:18.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientsForm.cs",
+              "DocumentMoniker": "C:\\Users\\peter\\Desktop\\Code\\C#\\msforms\\techservice\\techservice_winforms\\Forms\\ClientsForm.cs",
+              "RelativeDocumentMoniker": "techservice_winforms\\Forms\\ClientsForm.cs",
+              "ToolTip": "C:\\Users\\peter\\Desktop\\Code\\C#\\msforms\\techservice\\techservice_winforms\\Forms\\ClientsForm.cs",
+              "RelativeToolTip": "techservice_winforms\\Forms\\ClientsForm.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAIwF4AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T03:47:38.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClientsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\peter\\Desktop\\Code\\C#\\msforms\\techservice\\techservice_winforms\\Forms\\ClientsForm.cs",
+              "RelativeDocumentMoniker": "techservice_winforms\\Forms\\ClientsForm.cs",
+              "ToolTip": "C:\\Users\\peter\\Desktop\\Code\\C#\\msforms\\techservice\\techservice_winforms\\Forms\\ClientsForm.cs [Design]",
+              "RelativeToolTip": "techservice_winforms\\Forms\\ClientsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T03:47:36.618Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
